@@ -15,10 +15,11 @@
 
 This repository is 🔋 battery packed with:
 
-- ⚡️ Next.js 14 with App Router
-- ⚛️ React 18
+- ⚡️ Next.js 15 with App Router
+- ⚛️ React 19
 - ✨ TypeScript
-- 💨 Tailwind CSS 3 — Configured with CSS Variables to extend the **primary** color
+- 💨 Tailwind CSS 4 — Configured with `@theme` and CSS Variables to extend the **primary** color
+- 🧩 shadcn/ui — Pre-configured with **new-york** style, 17+ production-ready components (Sheet, Dialog, Card, Form, etc.)
 - 💎 Pre-built Components — Components that will **automatically adapt** with your brand color, [check here for the demo](https://tsnext-tw.thcl.dev/components)
 - 🃏 Jest — Configured for unit testing
 - 📈 Absolute Import and Path Alias — Import components using `@/` prefix
